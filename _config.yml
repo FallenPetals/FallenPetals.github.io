@@ -24,19 +24,19 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Zheao Li"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Singapore"
+  employer         : "Nanyang Technological University (NTU)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zheao001@e.ntu.edu.sg" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=-e9CuEYAAAAJ&hl=zh-CN"
+  IEEEprofile      : "https://ieeexplore.ieee.org/author/37089506459"
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
